@@ -1,0 +1,16 @@
+{
+  "name": "chatfriendssappi",
+  "description": "",
+  "main": "",
+  "authors": [
+    "burkayaktas <mburkayaktas@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "nodejs"
+  ],
+  "homepage": "https://github.com/burkayaktas/ChatFriendssAppi",
+  "dependencies": {
+    "angular": "^1.8.0"
+  }
+}
